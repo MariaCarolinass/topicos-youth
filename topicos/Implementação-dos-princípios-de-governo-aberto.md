@@ -19,6 +19,9 @@ entende como é possível fiscalizar o governo a partir dos dados públicos e
 geralmente as bases governamentais não estão em formatos acessíveis e exigem
 conhecimento técnico para o uso.
 
+**Como você enxerga o governo aberto no Brasil? Concorda que os princípios 
+acabam ficando na maioria das vezes em teoria?**
+
 ## Links
 
 - [Governo aberto: participação, prestação de contas e transparência](https://www.gov.br/cgu/pt-br/governo-aberto/central-de-conteudo/videos/videos-home/governo-aberto-participacao-prestacao-de-contas-e-transparencia)
