@@ -1,6 +1,6 @@
 # Implementação dos princípios de governo aberto
 
-#### categoria: governo aberto
+#### Categoria: governo aberto
 
 O governo aberto é o conjunto de práticas que incentivam a participação social,
 o aumento da transparência pública e a inovação cívica na administração pública.
@@ -21,7 +21,7 @@ conhecimento técnico para o uso.
 
 ## Links
 
-- https://www.gov.br/cgu/pt-br/governo-aberto/central-de-conteudo/videos/videos-home/governo-aberto-participacao-prestacao-de-contas-e-transparencia
-- https://www.colab.re/conteudo/o-que-e-governo-aberto
-- https://www.cg.df.gov.br/governo-aberto-no-brasil-e-exemplo-para-a-america-latina-e-caribe-ressalta-ministro-da-cgu/
-- https://www.portaltransparencia.gov.br/
+- [Governo aberto: participação, prestação de contas e transparência](https://www.gov.br/cgu/pt-br/governo-aberto/central-de-conteudo/videos/videos-home/governo-aberto-participacao-prestacao-de-contas-e-transparencia)
+- [O que é governo aberto?](https://www.colab.re/conteudo/o-que-e-governo-aberto)
+- [Governo aberto no Brasil é exemplo para a América Latina e Caribe, ressalta ministro da CGU](https://www.cg.df.gov.br/governo-aberto-no-brasil-e-exemplo-para-a-america-latina-e-caribe-ressalta-ministro-da-cgu/)
+- [Portal da Transparência](https://www.portaltransparencia.gov.br/)
