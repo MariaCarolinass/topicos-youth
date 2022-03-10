@@ -1,6 +1,6 @@
 # O poder abusivo do princípio de liberdade
 
-#### categoria: liberdade e internet
+#### Categoria: liberdade e internet
 
 A Declaração multissetorial do NETmundial (2014), declarou que um dos
 princípios de Governança da Internet se refere aos direitos humanos e valores
@@ -23,9 +23,9 @@ pela manipulação nas mídias sociais. Além disso, em 2018 houve vários índi
 de violência contra jornalistas independentes e ativistas que buscavam
 desmistificar as informações falsas.
 
-Como os agentes reguladores da Internet lidam com o abuso do princípio de
-liberdade na Internet e quais medidas podem ser tomadas a respeito do assunto?
+**Como os agentes reguladores da Internet lidam com o abuso do princípio de
+liberdade na Internet e quais medidas podem ser tomadas a respeito do assunto?**
 
 ## Links
 
-- https://www.poder360.com.br/tecnologia/liberdade-na-internet-cai-globalmente-aponta-relatorio/
+- [Liberdade na internet cai globalmente, aponta relatório](https://www.poder360.com.br/tecnologia/liberdade-na-internet-cai-globalmente-aponta-relatorio/)
