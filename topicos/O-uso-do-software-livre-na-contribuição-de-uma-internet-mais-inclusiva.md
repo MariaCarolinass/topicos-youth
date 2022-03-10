@@ -1,6 +1,6 @@
 # O uso do software livre na contribuição de uma internet mais inclusiva
 
-#### categoria: software livre e inclusão digital
+#### Categoria: software livre e inclusão digital
 
 A inclusão digital faz parte do mundo globalizado, isto significa incluir toda
 a sociedade, sem restrições, no acesso e uso da rede. Esta participação do
@@ -29,23 +29,25 @@ com que a pessoa se torne parte da construção, seja da cidadania ou de um
 programa. Assim, se torna contraditório que projetos de inclusão digital
 indiquem a utilização de softwares proprietários cheios de restrições e caros.
 
-O que acham do movimento Software Livre? Já conheciam sobre?
-Consideram que o SL pode ser útil para a Inclusão Digital?
-Tem interesse em usar SL, mas por algum motivo estão presos a
-softwares proprietários?
+**O que achou do movimento software livre? Já conhecia sobre?
+Considera que o SL pode ser útil para melhorar a inclusão digital?
+Tem interesse em usar software livre, mas por algum motivo está preso em 
+softwares proprietários?**
 
 Eu procuro sempre utilizar ferramentas livres e inclusive o meu sistema
-operacional é o GNU/Linux, uso a versão Debian. Se eu considero o movimento
-importante, então começo mudando os meus costumes, para assim, difundir o seu
+operacional é o [GNU/Linux](https://www.gnu.org/), uso a versão 
+[Debian](https://www.debian.org/). Se eu considero o movimento importante, 
+então começo mudando os meus costumes, para assim, difundir o seu
 uso para outras pessoas.
 
-Recomendo o AlternativeTo para começarem a pesquisar por ferramentas de
-software livre. Por exemplo, você pode pesquisar por Adobe Photoshop e filtrar
-softwares semelhantes a ele pela licença.
+Recomendo o [AlternativeTo](https://alternativeto.net/) para começarem a 
+pesquisar por ferramentas de software livre. Por exemplo, você pode 
+pesquisar por Adobe Photoshop e filtrar softwares semelhantes a ele 
+pela licença.
 
 ## Links
 
 - Conectando o próximo bilhão para quem? Por Hudson Lupes Ribeiro de Souza
 (Alves, G.; Goberna, A.; Fratti, S. (Org.). Análises de uma Juventude
 Conectada: Governança da Internet. 2017.)
-- https://www.gnu.org/philosophy/free-sw.pt-br.html
+- [Projeto GNU. O que é o software livre?](https://www.gnu.org/philosophy/free-sw.pt-br.html)
