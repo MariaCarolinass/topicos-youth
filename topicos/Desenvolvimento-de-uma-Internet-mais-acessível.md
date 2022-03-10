@@ -1,6 +1,6 @@
 # Desenvolvimento de uma Internet mais acessível
 
-#### categoria: acessibilidade na rede
+#### Categoria: acessibilidade na rede
 
 A governança da Internet é uma construção coletiva, ou seja, todos devem
 participar e fazer parte sem exceções. A Internet é um mecanismo que deve
@@ -21,14 +21,14 @@ sites governamentais que deveriam ser grandes exemplos de acessibilidades, não
 correspondem à Lei Brasileira de Inclusão? — Alguns sites do governo são bem
 lentos, mal estruturados, poucos seguros e possuem vários outros problemas.
 
-Como podemos participar e qual o nosso papel como cidadãos para melhorar a
-inclusão na rede?
+**Dessa forma, como podemos participar e qual o nosso papel de cidadãos para 
+melhorar a inclusão na rede?**
 
 ## Links
 
-- https://pt.wikipedia.org/wiki/W3C
-- http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm
-- https://neilpatel.com/br/blog/acessibilidade-na-web/
-- https://revistagalileu.globo.com/Tecnologia/noticia/2019/10/menos-de-1-dos-sites-brasileiros-sao-acessiveis-para-pessoas-com-deficiencia.html
-- https://pt.wikipedia.org/wiki/HTML
-- https://www.w3c.br/
+- [O que é a W3C?](https://pt.wikipedia.org/wiki/W3C)
+- [Site da W3C](https://www.w3c.br/)
+- [Lei Brasileira de Inclusão (LBI)](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm)
+- [Acessibilidade na web: o que é e quais são as suas diretrizes](https://neilpatel.com/br/blog/acessibilidade-na-web/)
+- [Menos de 1% dos sites brasileiros são acessíveis para pessoas com deficiência](https://revistagalileu.globo.com/Tecnologia/noticia/2019/10/menos-de-1-dos-sites-brasileiros-sao-acessiveis-para-pessoas-com-deficiencia.html)
+- [O que é HTML?](https://pt.wikipedia.org/wiki/HTML)
