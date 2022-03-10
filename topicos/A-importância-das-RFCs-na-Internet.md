@@ -23,10 +23,9 @@ democratizada, transparente e estimulam a cultura de colaboração da comunidade
 Além disso, ajudam na tomada de melhores decisões garantindo bons resultados
 para o futuro da Internet.
 
-**Convido a todos a pensarem como seria a Internet sem as RFCs?
-O que seria de protocolos como o HTTP ou IP se não fossem padronizados em um
-local? E qual a importância que grupos como o IETF têm para a evolução da
-Internet?**
+**Como seria a Internet sem as RFCs? O que seria de protocolos como o HTTP 
+ou IP se não fossem padronizados em um local? E qual a importância que 
+grupos como o IETF têm para a evolução da Internet?**
 
 ## Links
 
