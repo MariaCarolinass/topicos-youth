@@ -1,6 +1,6 @@
 # A importância das RFCs na Internet
 
-#### categoria: documentação
+#### Categoria: documentação na Internet
 
 As RFCs ou Request for Comments são documentos técnicos que descrevem e
 organizam todo o processo de desenvolvimento da Internet. Inicialmente as
@@ -23,12 +23,12 @@ democratizada, transparente e estimulam a cultura de colaboração da comunidade
 Além disso, ajudam na tomada de melhores decisões garantindo bons resultados
 para o futuro da Internet.
 
-Convido a todos a pensarem como seria a Internet sem as RFCs?
+**Convido a todos a pensarem como seria a Internet sem as RFCs?
 O que seria de protocolos como o HTTP ou IP se não fossem padronizados em um
-local? E sobre a importância que grupos como o IETF têm para a evolução da
-Internet.
+local? E qual a importância que grupos como o IETF têm para a evolução da
+Internet?**
 
 ## Links
 
-- https://pt.wikipedia.org/wiki/Internet_Engineering_Task_Force
-- https://blog.ccna.com.br/2015/09/07/voce-sabe-o-que-e-rfc-e-para-que-serve-uma-rfc/
+- [O que é Internet Engineering Task Force (IETF)](https://pt.wikipedia.org/wiki/Internet_Engineering_Task_Force)
+- [Você sabe o que é RFC? E para que serve uma RFC?](https://blog.ccna.com.br/2015/09/07/voce-sabe-o-que-e-rfc-e-para-que-serve-uma-rfc/)
